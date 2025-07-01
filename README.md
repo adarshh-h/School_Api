@@ -35,14 +35,16 @@ Use this link to test API endpoints via Postman or browser.
    git clone https://github.com/YOUR_USERNAME/School_API.git
    cd School_API
    npm install
-Create a .env file in the root directory with the following content:
-DB_HOST=your_mysql_host
-DB_USER=your_mysql_user
-DB_PASSWORD=your_mysql_password
-DB_NAME=your_database_name
-DB_PORT=3306
+2. Create a .env file in the root directory with the following content:
+   ```bash
+     DB_HOST=your_mysql_host
+     DB_USER=your_mysql_user
+     DB_PASSWORD=your_mysql_password
+     DB_NAME=your_database_name
+     DB_PORT=3306
 
-Start the server
-node index.js
+3. Start the server
+   ```bash
+    npm start
 
 
