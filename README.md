@@ -42,5 +42,3 @@ Use this link to test API endpoints via Postman or browser.
 3. Start the server
    ```bash
     npm start
-
-
