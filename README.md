@@ -5,17 +5,13 @@ It allows users to add new schools and retrieve a list of schools sorted by prox
 
 ---
 
-## 🔗 Live API Endpoint
-
-👉 **Base URL**:  
-[https://school-api-cmst.onrender.com]
-
-Use this link to test API endpoints via Postman or browser.
 ## ✅ Live API Endpoints (for testing)
 
 - Base URL: https://school-api-cmst.onrender.com  
 - POST Add School: https://school-api-cmst.onrender.com/addSchool  
 - GET List Schools: https://school-api-cmst.onrender.com/listSchools?latitude=19.05&longitude=72.89
+  
+Use this link to test API endpoints via Postman or browser.
 
 
 ## 🛠 Technologies Used
